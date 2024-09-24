@@ -17,7 +17,7 @@ I am Bahri, a passionate developer always keen to learn new technologies and con
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/websocket.png" alt="WebSocket" width="40" height="40"/>
+  <img src="https://static.thenounproject.com/png/1206756-200.png" alt="WebSocket" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
