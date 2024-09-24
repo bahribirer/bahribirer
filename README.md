@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-
-
 ## Languages and Tools:
 
 <p align="left">
@@ -17,45 +15,18 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
 </p>
 
-
-
-
-
+## GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bahribirer&show_icons=true&theme=radical)](https://github.com/bahribirer)
 
+## GitHub Activity
 
-![Bahri's GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=bahribirer)
+![Bahri's GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=bahribirer&theme=radical)
 
-
+## GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bahribirer&theme=onedark)](https://github.com/bahribirer)
 
+## Contribution Graph
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bahribirer&theme=github)](https://github.com/bahribirer)
