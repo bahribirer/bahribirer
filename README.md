@@ -25,6 +25,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bahribirer&show_icons=true&theme=radical)](https://github.com/bahribirer)
 
 
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bahribirer&theme=dracula)](https://github.com/bahribirer)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bahribirer&theme=onedark)](https://github.com/bahribirer)
