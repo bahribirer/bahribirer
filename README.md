@@ -29,4 +29,5 @@
 
 ## Contribution Graph
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bahribirer&theme=github)](https://github.com/bahribirer)
+![Bahri's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bahribirer&theme=github)
+
