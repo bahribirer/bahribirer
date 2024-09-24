@@ -27,7 +27,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bahribirer&theme=onedark)](https://github.com/bahribirer)
 
-## Contribution Graph
 
-![Bahri's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bahribirer&theme=github)
 
