@@ -56,6 +56,6 @@
 
 
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bahribirer&theme=github)](https://github.com/bahribirer)
+
 
 
