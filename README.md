@@ -46,7 +46,7 @@ I am Bahri, a passionate developer always keen to learn new technologies and con
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahribirer&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+----
 
 ## ☕ Support Me
 If you like my work and want to support me:
