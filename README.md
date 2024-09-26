@@ -32,7 +32,7 @@ I am Bahri, a passionate developer always keen to learn new technologies and con
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahribirer&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
----
+----
 
 ## 🏆 GitHub Trophies
 <p align="center">
