@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am Bahri, a passionate developer always keen to learn new technologies and contribute to open-source projects.
 
------
+------
 
 ## 🔧 Languages and Tools:
 <p align="left">
